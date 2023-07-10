@@ -1,3 +1,78 @@
-h2{
-    background-color: aqua;
+/*header part */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1530px;
+    height: 450px;
+    display: flex;
+    background-size: cover;
+   
+}
+.container{
+    padding-left: 250px;
+    padding-top: 20px;
+
+}
+
+.header-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 45px;
+    font-weight: 800;
+    
+}
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+   
+
+}
+.btn-primary{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    border-color:  #E55473;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.header-image{
+    width: 300px;
+    height: 420px;
+}
+.images{
+    margin-top: 30px;
+    margin-left: 350px;
+}
+/*main part start*/
+.section-one{
+    text-align: center;
+    padding: 50px;
+}
+
+.our{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.radient{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 384px;
+    height: 450px;
+}
+.bonus-point{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+    margin-left: 30px;
 }
