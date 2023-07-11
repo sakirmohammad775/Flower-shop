@@ -39,6 +39,7 @@
     border-color:  #E55473;
     padding: 10px;
     margin-top: 20px;
+    border-style: none;
 }
 
 .header-image{
@@ -160,6 +161,7 @@
     margin-left: 300px;
 }
 /*section four*/
+
 .image-four{
     margin: 150px;
     margin-left: 290px;
@@ -177,4 +179,67 @@
     padding: 2px;
     margin-left: 10px;
     
+}
+/*section five start*/
+.section-five{
+    margin: 150px;
+    margin-left: 290px;
+    width: 900px;
+    height: 320px;
+    margin-top: 40px;
+    background-image: url(Rectangle.png);
+    background-size: cover;
+}
+.coupon{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.last-part{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.enter-value{
+    width: 400px;
+    height: 40px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 10px;
+    border-style: none;
+    padding-top:6px ;
+}
+
+.footer-part{
+    background: #111010;
+    width: 1530px;
+    height: 300px;
+    text-align: center;
+    padding-top: 40px;
+
+}
+.flower-tag{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 35px;
+    font-weight: 800;
+    
+}
+.span{
+    color: #FFFFFF;
+}
+.long-part{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+
 }
