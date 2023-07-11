@@ -23,7 +23,7 @@
 .header-description{
     color: rgba(39, 39, 39, 0.60);
     font-family: Lato;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 20px;
    
@@ -63,16 +63,118 @@
 
 }
 
-.radient{
+.radient-one{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    width: 384px;
-    height: 450px;
+    width: 290px;
+    height: 340px;
 }
+.radient-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 290px;
+    height: 340px;
+}
+.radient-three{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 290px;
+    height: 340px
+}
+
 .bonus-point{
     display: flex;
     justify-content: space-between;
-    
     align-items: center;
-    margin-left: 30px;
+    margin-left: 290px;
+    margin-right: 290px;
+}
+.image-gap{
+    width: 240px;
+    height: 280px;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+.hyper{
+    color: #272727;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 35px;
+    padding-left: 80px;
+    
+}
+/*section two start*/
+
+.section-two{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 150px;
+    margin-left: 290px;
+    width: 925px;
+    height: 200px;
+
+}
+.free-support{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+}
+.group-one{
+    padding-left: 80px;
+}
+.group-two{
+    padding-left: 50px;
+}
+
+/*section three start*/
+.section-three{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1530px;
+    height: 450px;
+    display: flex;
+}
+.pngwing{
+    width: 270px;
+    height: 320px;
+    margin-top: 80px;
+    padding-left: 220px;
+}
+.hyper-two{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+   
+}
+.flat-offer{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+/*section four*/
+.image-four{
+    margin: 150px;
+    margin-left: 290px;
+    width: 925px;
+    height: 200px;
+    margin-top: 40px;
+}
+.instagram{
+    text-align: center;
+    margin-top: 80px;
+}
+.picture{
+    width:210px;
+    height: 250px;
+    padding: 2px;
+    margin-left: 10px;
+    
 }
