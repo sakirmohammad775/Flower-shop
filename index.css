@@ -51,6 +51,10 @@
     margin-left: 350px;
 }
 /*main part start*/
+.start{
+    width: 1500px;
+    
+}
 .section-one{
     text-align: center;
     padding: 50px;
@@ -172,6 +176,10 @@
 .instagram{
     text-align: center;
     margin-top: 80px;
+    width: 1530px;
+   
+
+
 }
 .picture{
     width:210px;
