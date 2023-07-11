@@ -164,6 +164,33 @@
     margin-top: 150px;
     margin-left: 300px;
 }
+.bonus-round{
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    width: 1530px;
+    height: 450px;
+}
+.getty{
+    width: 500px;
+    height: 300px;
+    border-radius: 30px;
+    margin-top: 70px;
+    margin-left: 90px;
+}
+.play{
+    
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 20px;
+    color: rgba(39, 39, 39, 0.80);
+
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+
+}
 /*section four*/
 
 .image-four{
